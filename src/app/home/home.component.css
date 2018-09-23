@@ -1,0 +1,15 @@
+.repo-block{
+    border-bottom: 1px solid #999;
+    padding: 15px 10px;
+    box-sizing: border-box;
+}
+.repo-block h1{
+    color: rgba(0, 89, 255, 0.644);
+    font-size: 28px;
+}
+.repo-block p{
+    font-size: 16px;
+}
+.repo-block .repo-small{
+    font-size: 13px;
+}

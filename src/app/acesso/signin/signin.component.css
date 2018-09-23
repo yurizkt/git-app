@@ -1,0 +1,11 @@
+.formulario{
+    background-color: #efefef;
+    padding: 45px 30px;
+    box-sizing: border-box;
+    margin: 30px 0;
+    border-radius: 8px;
+}
+.btn-pan{
+    background-color: rgb(99, 33, 105);
+    color: #ffffff;
+}
